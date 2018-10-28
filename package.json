@@ -1,0 +1,27 @@
+{
+  "name": "flave-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "peerDependencies": {
+    "flave": "^1.4.3",
+    "webpack": ">=2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varubi/flave-loader.git"
+  },
+  "author": "varubi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varubi/flave-loader/issues"
+  },
+  "homepage": "https://github.com/varubi/flave-loader#readme",
+  "devDependencies": {
+    "flave": "^1.4.3",
+    "webpack": ">=2"
+  }
+}
