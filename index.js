@@ -5,7 +5,7 @@ const config = {
     output: '$O',
     trim: true,
     newlines: false,
-    export: false,
+    export: true,
     format: false,
 }
 
